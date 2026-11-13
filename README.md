@@ -9,3 +9,4 @@ dotnet run
 
 ## Kontakt
 Zespół: Warsztat Programisty
+Autor: Wiktor
